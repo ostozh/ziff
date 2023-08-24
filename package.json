@@ -1,0 +1,14 @@
+{
+  "name": "ziff",
+  "version": "0.1.0",
+  "description": "secure streaming",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ostozh",
+  "license": "ISC",
+  "dependencies": {
+    "gun": "^0.2020.1239"
+  }
+}
